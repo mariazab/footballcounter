@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Football Counter</string>
+
+    <string name="team1">Team 1</string>
+    <string name="team2">Team 2</string>
+
+    <!-- Initial score -->
+    <string name="initial_score">0</string>
+
+    <!-- Statistics -->
+    <string name="fouls">Fouls</string>
+    <string name="corners">Corners</string>
+    <string name="offsides">Offsides</string>
+
+    <!-- Buttons -->
+    <string name="goal_button">Goal!!!</string>
+    <string name="foul_button">Foul</string>
+    <string name="corner_button">Corner</string>
+    <string name="offside_button">Offside</string>
+    <string name="reset_button">Reset</string>
+</resources>
